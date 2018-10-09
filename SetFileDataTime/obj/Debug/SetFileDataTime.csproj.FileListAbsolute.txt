@@ -1,0 +1,6 @@
+D:\myProject\FistC\ConsoleApplication1\SetFileDataTime\bin\Debug\SetFileDataTime.exe.config
+D:\myProject\FistC\ConsoleApplication1\SetFileDataTime\bin\Debug\SetFileDataTime.exe
+D:\myProject\FistC\ConsoleApplication1\SetFileDataTime\bin\Debug\SetFileDataTime.pdb
+D:\myProject\FistC\ConsoleApplication1\SetFileDataTime\obj\Debug\SetFileDataTime.csprojResolveAssemblyReference.cache
+D:\myProject\FistC\ConsoleApplication1\SetFileDataTime\obj\Debug\SetFileDataTime.exe
+D:\myProject\FistC\ConsoleApplication1\SetFileDataTime\obj\Debug\SetFileDataTime.pdb
